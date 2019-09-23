@@ -1,4 +1,5 @@
-Senin : Bootstrap, GIT
+Senin : GIT
 Selasa : Sistem Informasi
-Rabu : Kosong
-Kamis : Belajar GNS 3
+
+Kamis : Belajar GNS3
+Jum'at : Trigger DB
